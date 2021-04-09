@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--     Created by Kerry-Anne McLaughlin-->
+<!--     kmclau208@caledonian.ac.uk, s1802675-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/largest_mag_eq"
+        android:title="@string/largest_magnitude" />
+    <item
+        android:id="@+id/deepest_eq"
+        android:title="@string/deepest_earthquake" />
+    <item
+        android:id="@+id/shallowest_eq"
+        android:title="@string/shallowest_earthquake" />
+    <item
+        android:id="@+id/north_eq"
+        android:title="@string/most_northern_earthquake" />
+    <item
+        android:id="@+id/south_eq"
+        android:title="@string/most_southern_earthquake" />
+    <item
+        android:id="@+id/eastern_eq"
+        android:title="@string/most_eastern_earthquake" />
+    <item
+        android:id="@+id/western_eq"
+        android:title="Most Western Earthquake" />
+    <item
+        android:id="@+id/menu_refresh"
+        android:title="@string/refresh_menu_text" />
+
+</menu>

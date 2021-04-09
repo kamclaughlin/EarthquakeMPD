@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Earthquake Tracker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="earthquake_detail_depth">%s km</string>
+    <string name="title_activity_earthquake_map">Map</string>
+    <string name="title_activity_remove">Map</string>
+    <string name="title_activity_main_navigation">Quake Trackr</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_list">List</string>
+    <string name="title_map">Map</string>
+    <string name="title_search">Search</string>
+    <string name="earthquake_detail_name">Earthquake Detail</string>
+
+    <!--DETAIL FRAGMENT STRINGS-->
+    <string name="position">Position</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="distance">Distance</string>
+    <string name="miles_away">541 Miles away</string>
+    <string name="depth">Depth</string>
+    <string name="depth_icon">Depth Icon</string>
+    <string name="distance_icon">Distance Icon</string>
+    <string name="time_icon">Time Icon</string>
+    <string name="date_icon">Date Icon</string>
+    <string name="marker_icon">Marker Icon</string>
+
+    <!--DASHBOARD STRINGS-->
+    <string name="dashboard_heading">QuakeTrackr Dashboard</string>
+    <string name="dashboard_text">You can select from the options below.</string>
+    <string name="strongest_icon">Strongest Icon</string>
+    <string name="strongest_earthquake">Strongest Earthquake</string>
+    <string name="deepest_icon">Deepest Icon</string>
+    <string name="deepest_earthquake">Deepest Earthquake</string>
+    <string name="north_icon">north icon</string>
+    <string name="most_northerly">Most Northerly</string>
+    <string name="easterly_icon">Easterly Icon</string>
+    <string name="most_easterly">Most Easterly</string>
+    <string name="westerly_icon">Westerly Icon</string>
+    <string name="most_westerly">Most Westerly</string>
+    <string name="southerly_icon">Southerly Icon</string>
+    <string name="most_southerly">Most Southerly</string>
+    <string name="map_icon">Map Icon</string>
+    <string name="search_form_text">Please search using the form</string>
+    <string name="refresh_menu_text">Refresh Feed</string>
+    <string name="search_heading">Earthquake Search</string>
+    <string name="search_subheading" translatable="false">You can search for Earthquakes using the form below</string>
+    <string name="start_date_lbl">Start Date</string>
+    <string name="start_hint">e.g. 21/05/2018</string>
+    <string name="end_date_lbl" translatable="false">End Date</string>
+    <string name="end_hint">e.g. 21/05/2018</string>
+    <string name="magnitude_lbl">Magnitude</string>
+    <string name="depth_lbl">Depth Greater Than</string>
+    <string name="depth_hint">Enter Depth (KM)</string>
+    <string name="earthquake_location_lbl">Earthquake Location</string>
+    <string name="location_hint">e.g. Salsbury</string>
+    <string name="sort_by_lbl">Sort By</string>
+    <string name="sort_lbl">Sort Order</string>
+    <string name="ascending_radio">Ascending</string>
+    <string name="descending_radio">Descending</string>
+    <string name="search_button_lbl">Search</string>
+    <string name="clear_button_lbl">Clear Form</string>
+    <string name="filter_options">Filter Options</string>
+    <string name="largest_magnitude">Largest Magnitude</string>
+    <string name="shallowest_earthquake">Shallowest Earthquake</string>
+    <string name="most_northern_earthquake">Most Northern Earthquake</string>
+    <string name="most_southern_earthquake">Most Southern Earthquake</string>
+    <string name="most_eastern_earthquake">Most Eastern Earthquake</string>
+
+</resources>

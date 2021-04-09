@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Kerry-Anne McLaughlin-->
+<!-- kmclau208@caledonian.ac.uk, s1802675-->
+<FrameLayout android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <include layout="@layout/search_form" />
+
+</FrameLayout>
+
